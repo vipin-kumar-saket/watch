@@ -8,7 +8,7 @@
 .header {
     width: 100%;
     height: 100vh;
-    background-image: url(/vback.jpg);
+    background-image: url(vback.jpg);
     background-position: center;
     background-size: 100%;
     overflow-x: hidden;
